@@ -1,0 +1,23 @@
+{
+  "name": "fd-management-system",
+  "version": "1.0.0",
+  "description": "add your fixed deposits, get notified before renewal date and calculate interest rate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minitashah/fd-management-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minitashah/fd-management-system/issues"
+  },
+  "homepage": "https://github.com/minitashah/fd-management-system#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mysql": "^2.9.0"
+  }
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>FD Management System</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-datepicker.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic' rel='stylesheet' type='text/css'>
+	<style type="text/css">
+	body,
+	p,
+	h1,
+	h2,
+	h3,
+	h4,
+	h6,
+	a {
+		font-family: 'Open Sans', sans-serif;
+		/*padding: 20px;*/
+		/*color: white;*/
+		/*font-style: centre;*/
+	}
+	</style>
+	<!-- JavaScript Libraries -->
+	<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap-datepicker.min.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<nav class="navbar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#">fixed deposite managment</a>
+				</div>
+				<div>
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="#">Home</a></li>
+						<li><a href="#">Page 1</a></li>
+						<li><a href="#">Page 2</a></li>
+						<li><a href="#">Page 3</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<!-- <div class="row">
+			<div class="col-md-12">
+				<div class="page-header">
+					<h2>Form</h2>
+				</div> -->
+		<div class="container">
+			<h2>form</h2>
+			<form role="form" action="insertfd" method="get">
+				<div class="form-group">
+					<label for="Bank Name">Bank Name</label>
+					<input type="text" class="form-control" id="Bank Name" placeholder="Bank Name" name="bank_name">
+				</div>
+				<div class="form-group">
+					<label for="Date">Start Date</label>
+					<div class='input-group date datetimepicker8'>
+						<input type='text' class="form-control" placeholder="Starting Date" name="start_date" />
+						<span class="input-group-addon">
+						<span class="fa fa-calendar">
+						</span>
+						</span>
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="Date">Ending Date</label>
+					<div class='input-group date datetimepicker8'>
+						<input type='text' class="form-control" placeholder="Ending Date" name="ending_date"/>
+						<span class="input-group-addon">
+						<span class="fa fa-calendar">
+						</span>
+						</span>
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="Amount">Amount</label>
+					<input type="number" class="form-control" id="amount" placeholder="Amount" name="amount">
+				</div>
+				<div class="form-group">
+					<label for="year">Year</label>
+					<input type="number" class="form-control" id="Year" placeholder="Year" name="year">
+				</div>
+				<div class="form-group">
+					<label for="interest rate">interest rate</label>
+					<input type="number" class="form-control" id="interest rate" placeholder="interest rate" name="interest_rate">
+				</div>
+				<button type="submit" class="btn btn-success">Submit</button>
+				<script type="text/javascript">
+				$(document).ready(function() {
+					$('.datetimepicker8').datepicker({
+						orientation: "centre"
+					});
+				});
+				</script>
+</body>
+
+</html>

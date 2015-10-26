@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"counter"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ge",
+				"getRectangleArea"
+			],
+			[
+				"get",
+				"getRectangleArea"
+			],
+			[
+				"my",
+				"myNumber"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"chi",
+				"childs"
+			],
+			[
+				"ar",
+				"array_push"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"array",
+				"array_values"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"nav",
+				"nav_sub_title"
+			],
+			[
+				"c",
+				"childs"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"p",
+				"parents"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"pr",
+				"pr"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"g",
+				"google"
+			],
+			[
+				"login",
+				"loginWithGoogle"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"loginwi",
+				"loginWithFacebook"
+			],
+			[
+				"go",
+				"GooglePlusProvider"
+			],
+			[
+				"G",
+				"GooglePlusProvider"
+			],
+			[
+				"Goo",
+				"googlepluseProvider"
+			],
+			[
+				"set",
+				"setPermissions"
+			],
+			[
+				"goo",
+				"googlepluseProvider"
+			],
+			[
+				"bowe",
+				"bower_components/"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"on",
+				"onmouseover	Attr"
+			],
+			[
+				"bu",
+				"button	Tag"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"b",
+				"b	Tag"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"new",
+				"newNum"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"popat",
+				"popat1"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"po",
+				"popat2"
+			],
+			[
+				"popa",
+				"popat2"
+			],
+			[
+				"di",
+				"dimention_two"
+			],
+			[
+				"dim",
+				"dimentions_one"
+			],
+			[
+				"retu",
+				"returnMoney"
+			],
+			[
+				"cat",
+				"catName"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"onmouse",
+				"onmouseout	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 286.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/mini.html",
+		"/G/index.html",
+		"/G/music/index.html",
+		"/G/projects/mini/fatburnfactory_mealplan/index.html",
+		"/G/projects/portfolio/public/index.html",
+		"/C/Users/crazylove/Desktop/commands.html",
+		"/C/Users/crazylove/Desktop/index.html",
+		"/C/Users/crazylove/Desktop/javascript/self work.html",
+		"/C/Users/crazylove/Desktop/javascript/myFirstPage.html",
+		"/C/Users/crazylove/Desktop/mini.html",
+		"/G/projects/repos/javascriptPractices/arithmatic/arithmatic_basic.html",
+		"/G/projects/mini/tutorial/sample.html",
+		"/G/projects/mini/angular-samples/angularModulesFactoriesAndControllersBasics.html",
+		"/G/projects/mini/angular-samples/index.html",
+		"/G/projects/mini/angular-samples/starter-template.css",
+		"/G/learn/html layout.html",
+		"/G/projects/repos/javascriptPractices/arrays/array_basics.html",
+		"/C/Users/crazylove/AppData/Local/Temp/fz3temp-1/index.html",
+		"/G/music/js/npm.js",
+		"/G/music/js/bootstrap.min.js",
+		"/G/music/js/bootstrap.js",
+		"/G/music/1.js",
+		"/C/wamp/www/fatburnfactory_mealplan/admin/ng-app/app.js",
+		"/C/wamp/www/fatburnfactory_mealplan/admin/ng-app/cms/model.js",
+		"/C/wamp/www/fatburnfactory_mealplan/api/application/models/v1/Nav_model.php",
+		"/C/wamp/www/fatburnfactory_mealplan/admin/ng-app/cms/add.html",
+		"/C/wamp/www/fatburnfactory_mealplan/api/application/controllers/v1/Nav.php",
+		"/C/wamp/www/fatburnfactory_mealplan/admin/ng-app/cms/view.html",
+		"/C/wamp/www/fatburnfactory_mealplan/admin/ng-app/cms/controller.js",
+		"/C/wamp/www/fatburnfactory_mealplan/admin/ng-app/auth/controller.js",
+		"/C/wamp/www/fatburnfactory_mealplan/api/application/config/database.php",
+		"/G/projects/mini/fatburnfactory_mealplan/api/application/models/v1/Nav_model.php",
+		"/G/projects/mini/fatburnfactory_mealplan/api/application/controllers/v1/Nav.php",
+		"/G/projects/mini/fatburnfactory_mealplan/admin/ng-app/cms/view.html",
+		"/G/projects/mini/fatburnfactory_mealplan/admin/ng-app/app.js",
+		"/G/projects/mini/fatburnfactory_mealplan/admin/ng-app/cms/model.js",
+		"/G/projects/mini/fatburnfactory_mealplan/admin/ng-app/cms/controller.js",
+		"/G/projects/mini/fatburnfactory_mealplan/bower.json",
+		"/G/learn/js.html",
+		"/G/learn/swich.html",
+		"/G/learn/switch.html",
+		"/G/learn/if else.html",
+		"/G/projects/mini/fatburnfactory_mealplan/ng-app/app.js",
+		"/G/projects/mini/fatburnfactory_mealplan/ng-app/auth/controller.js",
+		"/G/projects/mini/fatburnfactory_mealplan/ng-app/auth/views/login.html",
+		"/G/projects/mini/fatburnfactory_mealplan/Gruntfile.js",
+		"/G/projects/mini/angular-samples/bower.json",
+		"/G/projects/mini/fatburnfactory_mealplan/api/composer.json",
+		"/C/Users/crazylove/Desktop/commands.txt",
+		"/G/projects/mini/tutorial/angularModulesFactoriesAndControllersBasics.html",
+		"/G/projects/mini/app.js",
+		"/G/projects/mini/angularModulesFactoriesAndControllers.html",
+		"/G/projects/mini/object.html",
+		"/G/projects/mini/js.html",
+		"/G/projects/mini/cash.html",
+		"/G/projects/mini/html layout.html",
+		"/G/projects/mini/paragraph.html",
+		"/G/projects/mini/basic.html",
+		"/G/projects/mini/table.html",
+		"/G/JS/startbootstrap-small-business-1.0.3/index.html",
+		"/G/JS/startbootstrap-small-business-1.0.3/css/bootstrap.css",
+		"/G/projects/mini/script.js",
+		"/G/projects/mini/script.css",
+		"/G/JS/exercise files/chapter02/event charts/formevents.html",
+		"/C/Users/crazylove/Desktop/javascript/1-first.html",
+		"/G/projects/mini/m.js",
+		"/G/projects/mini/t.css",
+		"/F/નાળિયેરના દૂધથી થશે વાળમાં 6 ફાયદા (Offbeat).html",
+		"/G/projects/repos/javascript/arithmatic/arithmatic_basic.html",
+		"/G/projects/repos/javascript/README.md",
+		"/G/projects/repos/javascript/arrays/array_basics.html",
+		"/C/Users/crazylove/Desktop/javascript/ref/arithmetic/arithmetic.html",
+		"/C/Users/crazylove/Desktop/javascript/ref/arithmetic/switch.html",
+		"/C/Users/crazylove/Desktop/javascript/ref/arithmetic/arrays.html",
+		"/C/Users/crazylove/Desktop/javascript/ref/arithmetic/shape.hyml.html",
+		"/C/Users/crazylove/Desktop/javascript/ref/strings/beginning-constructor-and-prototypes.html",
+		"/C/Users/crazylove/Desktop/javascript/css/style.css",
+		"/C/Users/crazylove/Desktop/javascript/mini.js",
+		"/C/Users/crazylove/Desktop/javascript/2-strings.html",
+		"/C/Users/crazylove/Desktop/javascript/js/somelib.js",
+		"/C/Users/crazylove/Desktop/javascript/somelib.js",
+		"/C/Users/crazylove/Downloads/Programs/Sublime/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"					\n",
+			"5px",
+			"ocumen",
+			"		\n",
+			"()",
+			";\n",
+			"eeeee"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bootstrap-theme.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
